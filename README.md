@@ -6,7 +6,7 @@
 ## 👋HI! I'm SH!👋
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:onee.ssong@gmail.com)](mailto:onee.ssong@gmail.com)
 	
-### I'm use...
+| I'm use...
 #### Languages
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
