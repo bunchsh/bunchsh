@@ -20,7 +20,7 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue-%2302569B.svg?style=flat-square&logo=Vue&logoColor=pink)
+![Vue](https://img.shields.io/badge/Vue.js-%2302569B.svg?style=flat-square&logo=Vue&logoColor=#4FC08D)
 
 #### Database
 ![MySQL](https://img.shields.io/badge/Mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
